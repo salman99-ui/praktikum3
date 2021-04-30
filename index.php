@@ -13,7 +13,7 @@
 <body>
 	<h2 class="text-success">Login</h2>
 	
-		<form action="/success">
+		<form action="/success.html">
 				<div class="form-group">
 					<input id="username" type="text" name="username" class="form-control" placeholder="username">
 				</div>
